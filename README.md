@@ -1,8 +1,8 @@
+# CRNN-for-Music-Genre-Classification
+
 Poster Link: https://github.com/AndyLiuCodes/Music-Genre-Classification-with-CNN-Hybrid-Architectures/blob/master/Music_Genre_Classification_Poster.pdf 
 
 Research Paper Link: https://github.com/AndyLiuCodes/Music-Genre-Classification-with-CNN-Hybrid-Architectures/blob/master/Music_Genre_Classification_Report.pdf
-
-# CRNN-for-Music-Genre-Classification
 
 Instructions to Generate Data:
   Have the /fma_small folder in the main folder of the repo
